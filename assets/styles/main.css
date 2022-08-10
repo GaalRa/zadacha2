@@ -29,8 +29,12 @@
     color: #926239;
     border: #926239 1px solid;
     padding: 10px 20px;
+    border-radius: 10px;
 }
-
+.button:hover{
+    color: #ffffff;
+    background-color: #926239;
+}
 .section1 {
     display: block;
     font-size: 17px;
